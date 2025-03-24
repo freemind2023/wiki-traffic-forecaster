@@ -156,7 +156,7 @@ rmse_arima = np.sqrt(mean_squared_error(test, forecast_arima))
 print(f"📊 ARIMA MAE: {mae_arima:.2f}")
 print(f"📊 ARIMA RMSE: {rmse_arima:.2f}")
 
-pip install streamlit prophet
+
 
 import streamlit as st
 import pandas as pd
