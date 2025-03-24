@@ -8,7 +8,7 @@ Original file is located at
 """
 
 # Install required libraries (Seaborn is not pre-installed)
-!pip install seaborn
+
 
 # Import required libraries
 import pandas as pd
