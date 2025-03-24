@@ -69,7 +69,7 @@ plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
 
-!pip install prophet
+
 
 from prophet import Prophet
 
